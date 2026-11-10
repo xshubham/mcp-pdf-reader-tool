@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"linux-pdf-reader": {
+			"type": "stdio",
+			"command": "/home/user1/mcp-pdf-reader-tool/.venv/bin/python",
+			"args": [
+				"/home/user1/mcp-pdf-reader-tool/reader.py"
+			]
+		}
+	}
+}
